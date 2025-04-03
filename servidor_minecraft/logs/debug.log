@@ -729,3 +729,65 @@
 
 [21:47:43] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 300 times.
 
+[21:47:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:33] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 305 times.
+
+[21:48:33] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 305 times.
+
+[21:48:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:49:23] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 310 times.
+
+[21:49:23] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 310 times.
+
+[21:49:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:13] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 315 times.
+
+[21:50:13] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 315 times.
+
+[21:50:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:03] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 320 times.
+
+[21:51:03] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 320 times.
+
+[21:51:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:53] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 325 times.
+
+[21:51:53] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 325 times.
+
+[21:52:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:43] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 330 times.
+
+[21:52:43] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 330 times.
+
+[21:53:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:33] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 335 times.
+
+[21:53:33] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 335 times.
+
+[21:53:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:23] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 340 times.
+
+[21:54:23] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 340 times.
+
+[21:54:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:13] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 345 times.
+
+[21:55:13] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 345 times.
+
+[21:55:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:03] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 350 times.
+
+[21:56:03] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 350 times.
+
+[21:56:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:53] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 355 times.
+
+[21:56:53] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 355 times.
+
+[21:56:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:43] [Server thread/DEBUG] [FML]: The world 1072a9bd (world) may have leaked: seen 360 times.
+
+[21:57:43] [Server thread/DEBUG] [FML]: The world 4bb16195 (world) may have leaked: seen 360 times.
+
+[21:57:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
